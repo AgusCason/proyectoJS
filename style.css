@@ -21,8 +21,6 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 .btn-indexform{border-radius: 0%;background-color: #ffc24c;padding: 14.5%;width: 180%;}
 .btn-indexform a{text-decoration: none;color: black;}
 .btn-indexform:hover{transform: scale(0.9);}
-
-
 .index-section2{width: 100%;background-color: black;}
 .index-section2-card{width: 100%;background-color: black;display: flex;margin-top: 0.6%;;}
 .index-section2-card1-izq{flex-flow: wrap;width: 60%;padding: 12%;}
@@ -68,9 +66,10 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 
 
 
+.body-usuarios{background-color: black;}
 .usuarios{width: 100%;height: 100%;background-color: black;}
 .usuarios1{width: 100%;text-align: center;}
-.usuarios1 h4{color: white;font-size: 290%;font-weight: 500;}
+.usuarios1 h4{color: white;font-size: 290%;font-weight: 500;margin-top: 2.5%;}
 .usuarios-contenedor{width: 75%;display: flex;margin-left: 25%;margin-top: 2.5%;margin-bottom: 2.5%;}
 .usuario{flex-flow: wrap;padding: 2%;}
 .usuario img{width: 100%;border-radius: 5px;}
@@ -81,7 +80,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 .usuario-3:hover p{color: white;}
 .usuario-4:hover p{color: white;}
 .usuario-4:hover img{background-color: rgba(255, 255, 255, 0.795);}
-.adminperfiles{width: 100%;text-align: center;padding-bottom: 7.5%;}
+.adminperfiles{width: 100%;text-align: center;padding-bottom: 9.5%;}
 .btn-adminperfiles{border-radius: 0px;width: 15%;}
 .btn-adminperfiles a{text-decoration: none;color: #808080;}
 .btn-adminperfiles p{font-weight: 600;margin-top: 1%;margin-bottom: -1%;}
@@ -95,3 +94,63 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 
 .navbar-usuarios{flex-flow: wrap;width: 100%;}
 .navbar-usuarios-apartados{flex-flow: wrap;}
+
+
+
+
+
+/* dispositivo mediano */
+@media(min-width: 580px) and (max-width: 989px){}
+
+
+
+/* dispositivo pequeño */
+@media(max-width: 579px){
+
+    .container-fluid{width: 100%;}
+    .index-section1{max-width: 75%;background-image: url(img/fondocelu.png);background-size: 100%;height: auto;margin-left: 0%;}
+    .navbar{width: 100%;padding-top: 1.5%;}
+    .container-navbar-izq{margin-left: none;width: 15%;margin-top: 4.5%;}
+    .container-navbar-izq img{width: 110%;margin: none;}
+    .container-navbar-der{margin-right: none;width: 50%;}
+    .container-navbar-der a{text-decoration: none;color: black;}
+    .btn-warning{margin-left: 8%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
+    .btn-warning:hover{transform: scale(0.9);}
+    .index-section1 h4{text-align: center;color: white;font-weight: 700;font-size: 150%;width: 100%;margin-left: 0%;margin-top: 30%;}
+    .index-section1 h5{text-align: center;color: white;font-weight: 500;font-size: 90%;margin-top: 8%;}
+    .index-section1 p{margin-top: 15%;text-align: center;color: white;font-weight: 500;font-size: 90%;}
+    .index-section1-forms{width: 100%;display: block;margin-left: 0%;padding-bottom: 8.4%;}
+    .index-section1-forms-izq{width: 100%;}
+    .form-control{border-radius: 0%;}
+    .index-section1-forms-der{width: 100%;margin-left: -7%;}
+    .btn-indexform{border-radius: 0%;background-color: #ffc24c;padding: 5%;width: 99%;}
+    .btn-indexform a{text-decoration: none;color: black;}
+    .btn-indexform:hover{transform: scale(0.9);}
+    .index-section2{width: 100%;background-color: black;}
+    .index-section2-card{width: 100%;background-color: black;display: flex;margin-top: 0.6%;;}
+    .index-section2-card1-izq{flex-flow: wrap;width: 60%;padding: 12%;}
+    .index-section2-card1-izq h3{color: white;font-size: 315%;font-weight: 700;margin-bottom: 4%;margin-top: -5%;margin-left: -9%;}
+    .index-section2-card1-izq h5{color: white;font-size: 160%;font-weight: 300;margin-left: -9%;}
+    .index-section2-card1-der{width: 40%;}
+    .index-section2-card1-der img{width: 100%;margin-top: 17%;margin-left: -15%;}
+    .index-section2-card2-izq{width: 40%;flex-flow: wrap;}
+    .index-section2-card2-izq img{width: 100%;margin-top: 4%;margin-left: 3%;margin-bottom: -5%;}
+    .index-section2-card2-der{width: 60%;padding: 12%;}
+    .index-section2-card2-der h3{color: white;font-size: 310%;font-weight: 700;margin-bottom: 4%;margin-top: -5%;margin-left: -4%;}
+    .index-section2-card2-der h5{color: white;font-size: 160%;font-weight: 300;margin-left: -4%;margin-bottom: -5%;}
+    .index-section2-card3-izq{flex-flow: wrap;width: 70%;padding: 12%;}
+    .index-section2-card3-izq h3{color: white;font-size: 315%;font-weight: 700;margin-bottom: 4%;margin-top: 3%;margin-left: -9%;}
+    .index-section2-card3-izq h5{color: white;font-size: 160%;font-weight: 300;margin-left: -9%;}
+    .index-section2-card3-der{width: 40%;}
+    .index-section2-card3-der img{width: 120%;margin-top: 6%;margin-left: -30%;margin-bottom: 6%;}
+    .index-section2-card4-izq{width: 40%;flex-flow: wrap;}
+    .index-section2-card4-izq img{width: 95%;margin-top: 7%;margin-left: 19%;margin-bottom: -5%;}
+    .index-section2-card4-der{width: 60%;padding: 12%;}
+    .index-section2-card4-der h3{color: white;font-size: 310%;font-weight: 700;margin-bottom: 4%;margin-top: -10%;margin-left: -4%;}
+    .index-section2-card4-der h5{color: white;font-size: 140%;font-weight: 300;margin-left: -4%;margin-bottom: -5%;}
+    .index-section2-card5{width: 100%;background-color: black;margin-top: 0.6%;text-align: center;padding: 5%;margin-bottom: 0.6%;}
+    .index-section2-card5 h4{color: white;font-size: 310%;font-weight: 700;margin-bottom: 4%;}
+    .acordeon-preguntas{width: 70%;margin-left: 15%;}
+    .accordion-item{background-color: rgb(51, 51, 51);color: white;}
+
+}
