@@ -113,7 +113,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .container-navbar-izq img{width: 110%;margin: none;}
     .container-navbar-der{margin-right: none;width: 75%;}
     .container-navbar-der a{text-decoration: none;color: black;}
-    .btn-warning-sesion{margin-left: 40%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
+    .btn-warning-sesion{margin-left: 50%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
     .btn-warning-sesion:hover{transform: scale(0.9);}
     .index-section1 h4{text-align: center;color: white;font-weight: 700;font-size: 225%;width: 100%;margin-left: 0%;margin-top: 30%;}
     .index-section1 h5{text-align: center;color: white;font-weight: 500;font-size: 110%;margin-top: 8%;}
@@ -166,7 +166,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .iniciosesion-form-izq p{color: white;margin-top: -0.5%;font-size: 90%;}
     .iniciosesion-form-der{width: 50%;text-align: end;}
     .iniciosesion-form-der a{text-decoration: none;color: white;font-size: 90%;}
-    .iniciosesion-suscribirse{width: 100%;text-align: center;padding-bottom: 15%;}
+    .iniciosesion-suscribirse{width: 100%;text-align: center;padding-bottom: 20%;}
     .iniciosesion-suscribirse h4{color: rgb(189, 189, 189);margin-top: -0.5%;font-size: 90%;}
     .iniciosesion-suscribirse a{text-decoration: none;color: white;font-size: 95%;}
 
@@ -185,7 +185,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .container-navbar-izq img{width: 110%;margin: none;}
     .container-navbar-der{margin-right: none;width: 75%;}
     .container-navbar-der a{text-decoration: none;color: black;}
-    .btn-warning-sesion{margin-left: 40%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
+    .btn-warning-sesion{margin-left: 50%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
     .btn-warning-sesion:hover{transform: scale(0.9);}
     .index-section1 h4{text-align: center;color: white;font-weight: 700;font-size: 225%;width: 100%;margin-left: 0%;margin-top: 30%;}
     .index-section1 h5{text-align: center;color: white;font-weight: 500;font-size: 110%;margin-top: 8%;}
@@ -238,7 +238,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .iniciosesion-form-izq p{color: white;margin-top: -0.5%;font-size: 90%;}
     .iniciosesion-form-der{width: 50%;text-align: end;}
     .iniciosesion-form-der a{text-decoration: none;color: white;font-size: 90%;}
-    .iniciosesion-suscribirse{width: 100%;text-align: center;padding-bottom: 15%;}
+    .iniciosesion-suscribirse{width: 100%;text-align: center;padding-bottom: 20%;}
     .iniciosesion-suscribirse h4{color: rgb(189, 189, 189);margin-top: -0.5%;font-size: 90%;}
     .iniciosesion-suscribirse a{text-decoration: none;color: white;font-size: 95%;}
 
