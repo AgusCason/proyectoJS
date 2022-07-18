@@ -107,9 +107,9 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .navbar{width: 100%;padding-top: 1.5%;}
     .container-navbar-izq{margin-left: none;width: 15%;margin-top: 4.5%;}
     .container-navbar-izq img{width: 110%;margin: none;}
-    .container-navbar-der{margin-right: none;width: 50%;}
+    .container-navbar-der{margin-right: none;width: 60%;}
     .container-navbar-der a{text-decoration: none;color: black;}
-    .btn-warning{margin-left: 8%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
+    .btn-warning{margin-left: 20%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
     .btn-warning:hover{transform: scale(0.9);}
     .index-section1 h4{text-align: center;color: white;font-weight: 700;font-size: 150%;width: 100%;margin-left: 0%;margin-top: 30%;}
     .index-section1 h5{text-align: center;color: white;font-weight: 500;font-size: 90%;margin-top: 8%;}
