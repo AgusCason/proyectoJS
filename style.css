@@ -63,6 +63,9 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 .iniciosesion-form-izq p{color: white;margin-top: -0.5%;font-size: 90%;}
 .iniciosesion-form-der{width: 50%;text-align: end;}
 .iniciosesion-form-der a{text-decoration: none;color: white;font-size: 90%;}
+.iniciosesion-suscribirse{width: 100%;text-align: center;}
+.iniciosesion-suscribirse h4{color: rgb(101, 101, 101);margin-top: -0.5%;font-size: 110%;}
+.iniciosesion-suscribirse a{text-decoration: none;color: white;font-size: 110%;}
 
 
 
@@ -150,9 +153,9 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 
 
     .iniciosesion1{width: 100%;background-image: url(img/fondocelu.png);background-size: 100%;height: auto;}
-    .iniciosesion{width: 75%;background-color: rgba(0, 0, 0, 0.651);margin-left: 12%;padding-bottom: 2.5%;margin-top: 20%;}
+    .iniciosesion{width: 85%;background-color: rgba(0, 0, 0, 0.651);margin-left: 7.5%;padding-bottom: 2.5%;margin-top: 20%;}
     .iniciosesion h3{color: white;font-size: 220%;font-weight: 700;margin-bottom: 10%;padding-top: 15%;text-align: center;}
-    .iniciosesion-form{width: 80%;margin-left: 10%;}
+    .iniciosesion-form{width: 85%;margin-left: 10%;}
     .form-iniciosesion{margin-top: 5%;margin-bottom: 3%;border-radius: 2.5px;}
     .form-iniciosesion-btn{width: 100%;padding: 3%;margin-top: 10%;}
     .form-iniciosesion-btn a{text-decoration: none;color: black;font-weight: 500;}
@@ -161,6 +164,9 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .iniciosesion-form-izq p{color: white;margin-top: -0.5%;font-size: 90%;}
     .iniciosesion-form-der{width: 50%;text-align: end;}
     .iniciosesion-form-der a{text-decoration: none;color: white;font-size: 90%;}
+    .iniciosesion-suscribirse{width: 100%;text-align: center;padding-bottom: 5%;}
+    .iniciosesion-suscribirse h4{color: rgb(101, 101, 101);margin-top: -0.5%;font-size: 110%;}
+    .iniciosesion-suscribirse a{text-decoration: none;color: white;font-size: 110%;}
 
 
 }
@@ -218,9 +224,9 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 
 
     .iniciosesion1{width: 100%;background-image: url(img/fondocelu.png);background-size: 100%;height: auto;}
-    .iniciosesion{width: 75%;background-color: rgba(0, 0, 0, 0.651);margin-left: 12%;padding-bottom: 2.5%;margin-top: 20%;}
+    .iniciosesion{width: 85%;background-color: rgba(0, 0, 0, 0.651);margin-left: 7.5%;padding-bottom: 2.5%;margin-top: 20%;}
     .iniciosesion h3{color: white;font-size: 220%;font-weight: 700;margin-bottom: 10%;padding-top: 15%;text-align: center;}
-    .iniciosesion-form{width: 80%;margin-left: 10%;}
+    .iniciosesion-form{width: 85%;margin-left: 10%;}
     .form-iniciosesion{margin-top: 5%;margin-bottom: 3%;border-radius: 2.5px;}
     .form-iniciosesion-btn{width: 100%;padding: 3%;margin-top: 10%;}
     .form-iniciosesion-btn a{text-decoration: none;color: black;font-weight: 500;}
@@ -229,5 +235,8 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .iniciosesion-form-izq p{color: white;margin-top: -0.5%;font-size: 90%;}
     .iniciosesion-form-der{width: 50%;text-align: end;}
     .iniciosesion-form-der a{text-decoration: none;color: white;font-size: 90%;}
+    .iniciosesion-suscribirse{width: 100%;text-align: center;padding-bottom: 5%;}
+    .iniciosesion-suscribirse h4{color: rgb(101, 101, 101);margin-top: -0.5%;font-size: 110%;}
+    .iniciosesion-suscribirse a{text-decoration: none;color: white;font-size: 110%;}
 
 }
