@@ -150,9 +150,9 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 
 
     .iniciosesion1{width: 100%;background-image: url(img/fondocelu.png);background-size: 100%;height: auto;}
-    .iniciosesion{width: 40%;background-color: rgba(0, 0, 0, 0.651);margin-left: 30%;padding-bottom: 2.5%;}
-    .iniciosesion h3{color: white;font-size: 220%;font-weight: 700;margin-bottom: 4%;padding-top: 15%;text-align: center;}
-    .iniciosesion-form{width: 70%;margin-left: 15%;}
+    .iniciosesion{width: 75%;background-color: rgba(0, 0, 0, 0.651);margin-left: 12%;padding-bottom: 2.5%;margin-top: 20%;}
+    .iniciosesion h3{color: white;font-size: 220%;font-weight: 700;margin-bottom: 10%;padding-top: 15%;text-align: center;}
+    .iniciosesion-form{width: 80%;margin-left: 10%;}
     .form-iniciosesion{margin-top: 5%;margin-bottom: 3%;border-radius: 2.5px;}
     .form-iniciosesion-btn{width: 100%;padding: 3%;margin-top: 10%;}
     .form-iniciosesion-btn a{text-decoration: none;color: black;font-weight: 500;}
