@@ -103,7 +103,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 @media(min-width: 580px) and (max-width: 989px){
 
     .container-fluid{width: 100%;}
-    .index-section1{max-width: 100%;background-image: url(img/fondocelu.png);background-size: 100%;height: auto;margin-left: 0%;}
+    .index-section1{max-width: 105%;background-image: url(img/fondocelu.png);background-size: 100%;height: auto;margin-left: 0%;}
     .navbar{width: 100%;padding-top: 1.5%;}
     .container-navbar-izq{margin-left: none;width: 15%;margin-top: 4.5%;}
     .container-navbar-izq img{width: 110%;margin: none;}
