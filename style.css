@@ -9,8 +9,8 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 .container-navbar-izq img{width: 15%;}
 .container-navbar-der{margin-right: 5%;}
 .container-navbar-der a{text-decoration: none;color: black;}
-.btn-warning{background-color: #ffc24c;}
-.btn-warning:hover{transform: scale(0.9);}
+.btn-warning-sesion{background-color: #ffc24c;}
+.btn-warning-sesion:hover{transform: scale(0.9);}
 .index-section1 h4{margin-top: 8%;text-align: center;color: white;font-weight: 700;font-size: 290%;width: 50%;margin-left: 25%;}
 .index-section1 h5{text-align: center;color: white;font-weight: 500;font-size: 160%;}
 .index-section1 p{margin-top: 2.5%;text-align: center;color: white;font-weight: 500;font-size: 120%;}
@@ -161,10 +161,10 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .navbar{width: 100%;padding-top: 1.5%;}
     .container-navbar-izq{margin-left: none;width: 15%;margin-top: 4.5%;}
     .container-navbar-izq img{width: 110%;margin: none;}
-    .container-navbar-der{margin-right: none;width: 60%;}
+    .container-navbar-der{margin-right: none;width: 75%;}
     .container-navbar-der a{text-decoration: none;color: black;}
-    .btn-warning{margin-left: 20%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
-    .btn-warning:hover{transform: scale(0.9);}
+    .btn-warning-sesion{margin-left: 50%;font-size: 90%;font-weight: 700;margin-top: 7.5%;}
+    .btn-warning-sesion:hover{transform: scale(0.9);}
     .index-section1 h4{text-align: center;color: white;font-weight: 700;font-size: 150%;width: 100%;margin-left: 0%;margin-top: 30%;}
     .index-section1 h5{text-align: center;color: white;font-weight: 500;font-size: 90%;margin-top: 8%;}
     .index-section1 p{margin-top: 15%;text-align: center;color: white;font-weight: 500;font-size: 90%;}
@@ -172,7 +172,7 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .index-section1-forms-izq{width: 100%;}
     .form-control{border-radius: 0%;}
     .index-section1-forms-der{width: 100%;margin-left: 0%;}
-    .btn-indexform{border-radius: 0%;background-color: #ffc24c;padding: 5%;width: 99%;}
+    .btn-indexform{border-radius: 0%;background-color: #ffc24c;padding: 3%;width: 99%;margin-top: 7.5%;}
     .btn-indexform a{text-decoration: none;color: black;}
     .btn-indexform:hover{transform: scale(0.9);}
     .index-section2{width: 100%;background-color: black;}
