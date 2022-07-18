@@ -193,13 +193,13 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
     .index-section2-card3-der{width: 100%;}
     .index-section2-card3-der img{width: 100%;margin-top: 0%;margin-left: 0%;}
     .index-section2-card4-izq{width: 100%;}
-    .index-section2-card4-izq img{width: 95%;margin-top: 7%;margin-left: 19%;margin-bottom: -5%;}
+    .index-section2-card4-izq img{width: 95%;margin-top: 7%;margin-left: 0%;margin-bottom: -5%;}
     .index-section2-card4-der{width: 100%;padding: 12%;}
     .index-section2-card4-der h3{color: white;font-size: 225%;font-weight: 700;margin-bottom: 4%;margin-top: -10%;margin-left: 0%;text-align: center;}
     .index-section2-card4-der h5{color: white;font-size: 110%;font-weight: 300;margin-left:0%;margin-bottom: -5%;text-align: center;}
     .index-section2-card5{width: 100%;background-color: black;margin-top: 0.6%;text-align: center;padding: 5%;margin-bottom: 0.6%;}
     .index-section2-card5 h4{color: white;font-size: 225%;font-weight: 700;margin-bottom: 4%;text-align: center;}
-    .acordeon-preguntas{width: 80%;margin-left: 0%;}
+    .acordeon-preguntas{width: 95%;margin-left: 0%;}
     .accordion-item{background-color: rgb(51, 51, 51);color: white;}
 
 }
